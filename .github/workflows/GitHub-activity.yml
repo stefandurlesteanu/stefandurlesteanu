@@ -1,8 +1,10 @@
-name: GitHub Activity
+
+name: GitHub Activity Section
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,3 +15,5 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_USERNAME: stefandurlesteanu
