@@ -29,8 +29,6 @@
 
 
 <br />
-<br />
-
 
 
 ### Connect with me:
@@ -67,7 +65,6 @@
 
 </details>
 
----
 
 
 
