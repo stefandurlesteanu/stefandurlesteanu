@@ -41,6 +41,7 @@
 
 <br />
 <br />
+---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -52,6 +53,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+[![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=stefandurlesteanu)](https://github-readme-stats-git-master.stefandurlesteanu.vercel.app/)
+
+
+
 
 
 
