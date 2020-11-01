@@ -31,6 +31,15 @@
 <br />
 <br />
 
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="stefandurlesteanu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="stefandurlesteanu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="stefandurlesteanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -40,6 +49,16 @@
 
 ---
 
+
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+
+</details>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -47,23 +66,8 @@
 
 </details>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
 ---
 
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="stefandurlesteanu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="stefandurlesteanu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="stefandurlesteanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
