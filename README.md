@@ -48,7 +48,8 @@
 </details>
 
 ---
-</br>
+
+<br />
 
 ### Connect with me:
 
