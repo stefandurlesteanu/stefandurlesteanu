@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="stefandurlesteanu's GitHub Stats" src="https://github-readme-stats.stefandurlesteanu.vercel.app/api?username=stefandurlesteanu&show_icons=true&hide_border=true" />
+  <img align="left" alt="stefandurlesteanu's GitHub Stats" src="https://github-readme-stats.stefandurlesteanu.vercel.app/api?username=stefandurlesteanu&count_private=true&show_icons=true&hide_border=true&hide=stars,prs,issues" />
 
 </details>
 
