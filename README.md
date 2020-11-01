@@ -9,15 +9,6 @@
 - 🥅 2020 Goals: Find a job, work on personal projects
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="stefandurlesteanu Spotify Playing" width="350" />](https://open.spotify.com/user/31seumkpixbq3x4gpdxlejvovkeq)
-
-### Connect with me:
-
-[<img align="left" alt="stefandurlesteanu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="stefandurlesteanu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="stefandurlesteanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -41,6 +32,7 @@
 
 <br />
 <br />
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -57,6 +49,12 @@
 
 </details>
 
+
+### Connect with me:
+
+[<img align="left" alt="stefandurlesteanu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="stefandurlesteanu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="stefandurlesteanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
