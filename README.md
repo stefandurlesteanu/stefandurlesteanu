@@ -1,5 +1,7 @@
 ![](images/banner.png)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/DrlStefan?color=1da1f2&logo=twitter&style=for-the-badge)
+
 
 ### I'm a Husband, Father and Developer!
 
