@@ -10,8 +10,6 @@
 
 
 
-<br />
-
 ### Languages and Tools:
 
 
@@ -40,7 +38,6 @@
 - [First steps in Dev world](https://dev.to/stefandurlesteanu/first-steps-in-dev-world-64g)
 <!-- BLOG-POST-LIST:END -->
 
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -49,6 +46,7 @@
 
 </details>
 
+---
 
 ### Connect with me:
 
