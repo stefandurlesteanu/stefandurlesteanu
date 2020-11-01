@@ -1,4 +1,4 @@
-## Hi there, I'm Stefan 👋
+![](images/banner.png)
 
 
 ### I'm a Husband, Father and Developer!
