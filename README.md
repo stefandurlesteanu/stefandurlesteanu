@@ -1,14 +1,39 @@
 ![](images/banner.png)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DrlStefan?color=1da1f2&logo=twitter&style=for-the-badge)    [![Linkedin Badge](https://img.shields.io/badge/-connect_with_me-gray?style=for-the-badge&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/stefan-d-837bb1193/)](https://www.linkedin.com/in/stefan-d-837bb1193/)    [![Website](https://img.shields.io/website?label=stefandurlesteanu.rocks&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://stefandurlesteanu.rocks)
+![Twitter Follow](https://img.shields.io/twitter/follow/DrlStefan?color=1da1f2&logo=twitter&style=for-the-badge)    [![Linkedin Badge](https://img.shields.io/badge/-connect_with_me-gray?style=for-the-badge&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/stefan-d-837bb1193/)](https://www.linkedin.com/in/stefan-d-837bb1193/)    [![Website](https://img.shields.io/website?label=my_site&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://stefandurlesteanu.rocks)
 
 
-### I'm a Husband, Father and Developer!
+```
+<?php
 
+namespace StefanDurlesteanu;
 
-- 🌱 I’m currently learning LAMP
-- 👯 I’m looking for a great team - aka job
-- 🥅 2020 Goals: Find a job, work on personal projects
+class About extends Me
+{
+    public function getPersonalInfo()
+    {
+        return [
+            'wife' => true,
+            'children' => true,
+            'pet' => true
+    }
+    
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'Codecool',
+                'position' => 'Student Dev'         
+            ]
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'Find a job, work on personal projects.';
+    }
+}
+```
 
 
 
