@@ -1,7 +1,7 @@
 ![](images/banner.png)
 
 
-![Twitter Follow][twitter](https://img.shields.io/twitter/follow/DrlStefan?color=1da1f2&logo=twitter&style=for-the-badge)        [![Linkedin Badge](https://img.shields.io/badge/-connect_with_me-gray?style=for-the-badge&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/stefan-d-837bb1193/)](https://www.linkedin.com/in/stefan-d-837bb1193/)       [![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://stefandurlesteanu.rocks)         [![Blog](https://img.shields.io/website?label=blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dev.to/stefandurlesteanu)     
+![Twitter Follow](https://img.shields.io/twitter/follow/DrlStefan?color=1da1f2&logo=twitter&style=for-the-badge)        [![Linkedin Badge](https://img.shields.io/badge/-connect_with_me-gray?style=for-the-badge&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/stefan-d-837bb1193/)](https://www.linkedin.com/in/stefan-d-837bb1193/)       [![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://stefandurlesteanu.rocks)         [![Blog](https://img.shields.io/website?label=blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dev.to/stefandurlesteanu)     
 
 
 ```php
@@ -75,5 +75,5 @@ class About extends Me
 
 </details>
 
-[twitter]: https://twitter.com/DrlStefan
+
 
