@@ -1,6 +1,6 @@
 ![](images/banner.png)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DrlStefan?color=1da1f2&logo=twitter&style=for-the-badge)  [![Linkedin Badge](https://img.shields.io/badge/-durlesteanustefan-?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefan-d-837bb1193/)](https://www.linkedin.com/in/stefan-d-837bb1193/)
+![Twitter Follow](https://img.shields.io/twitter/follow/DrlStefan?color=1da1f2&logo=twitter&style=for-the-badge)  [![Linkedin Badge](https://img.shields.io/badge/-durlesteanustefan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefan-d-837bb1193/)](https://www.linkedin.com/in/stefan-d-837bb1193/)
 
 
 ### I'm a Husband, Father and Developer!
