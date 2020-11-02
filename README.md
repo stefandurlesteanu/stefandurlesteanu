@@ -1,6 +1,6 @@
 ![](images/banner.png)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/DrlStefan?color=1da1f2&logo=twitter&style=for-the-badge)    [![Linkedin Badge](https://img.shields.io/badge/-connect_with_me-gray?style=for-the-badge&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/stefan-d-837bb1193/)](https://www.linkedin.com/in/stefan-d-837bb1193/)    [![Website](https://img.shields.io/website?label=my_site&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://stefandurlesteanu.rocks)
+![Twitter Follow](https://img.shields.io/twitter/follow/DrlStefan?color=1da1f2&logo=twitter&style=for-the-badge)    [![Linkedin Badge](https://img.shields.io/badge/-connect_with_me-gray?style=for-the-badge&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/stefan-d-837bb1193/)](https://www.linkedin.com/in/stefan-d-837bb1193/)    [![Website](https://img.shields.io/website?label=my-site&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://stefandurlesteanu.rocks)
 
 
 ```
@@ -58,14 +58,6 @@ class About extends Me
 <br />
 
 
-### Connect with me:
-
-[<img align="left" alt="stefandurlesteanu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="stefandurlesteanu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="stefandurlesteanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -75,8 +67,6 @@ class About extends Me
 
 ---
 
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -85,10 +75,4 @@ class About extends Me
 </details>
 
 
-
-
-
-[twitter]: https://twitter.com/DrlStefan
-[facebook]: https://www.facebook.com/stefan.durlesteanu.5
-[linkedin]: https://www.linkedin.com/in/stefan-d-837bb1193/
 
