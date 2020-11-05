@@ -63,6 +63,7 @@ class About extends Me
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Boolean Algebra for Dummies](https://dev.to/stefandurlesteanu/boolean-algebra-for-dummies-nno)
 - [First steps in Dev world](https://dev.to/stefandurlesteanu/first-steps-in-dev-world-64g)
 <!-- BLOG-POST-LIST:END -->
 
