@@ -63,6 +63,7 @@ class About extends Me
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it worth using OOP in JS?](https://dev.to/stefandurlesteanu/is-it-worth-using-oop-in-js-2ag7)
 - [Boolean Algebra for Dummies](https://dev.to/stefandurlesteanu/boolean-algebra-for-dummies-nno)
 - [First steps in Dev world](https://dev.to/stefandurlesteanu/first-steps-in-dev-world-64g)
 <!-- BLOG-POST-LIST:END -->
