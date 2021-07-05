@@ -23,15 +23,15 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Codecool',
-                'position' => 'Student Dev'         
+                'company' => 'TravelHubX',
+                'position' => 'Jr. Dev'         
             ]
         ];
     }
 
     public function getFutureGoal()
     {
-        return 'Find a job, work on personal projects.';
+        return 'Have fun!';
     }
 }
 ```
