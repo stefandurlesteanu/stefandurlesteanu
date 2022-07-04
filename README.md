@@ -2,37 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-connect_with_me-gray?style=for-the-badge&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/stefan-d-837bb1193/)](https://www.linkedin.com/in/stefan-d-837bb1193/)       
 
-```php
-<?php
-
-namespace StefanDurlesteanu;
-
-class About extends Me
-{
-    public function getPersonalInfo()
-    {
-        return [
-            'wife' => true,
-            'children' => true,
-            'pet' => true
-    }
-    
-    public function getCurrentWorkplace()
-    {
-        return [
-            'workplace' => [
-                'company' => 'TravelHubX',
-                'position' => 'Software Developer'         
-            ]
-        ];
-    }
-
-    public function getFutureGoal()
-    {
-        return 'Have fun!';
-    }
-}
-```
 
 ---
 
